@@ -1,0 +1,39 @@
+body{
+    margin: 20px;
+    text-align: center;
+    font-weight: 800;
+    background-image: url(https://media.istockphoto.com/id/1136461807/photo/stylized-delicate-background-with-small-flowers.webp?b=1&s=170667a&w=0&k=20&c=P4pD_hEWvl-IkJzuIFIWB2Bx0H69HkKoeZiF9N93lEQ=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+h2{
+    font-size: 700;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+button{
+    border: none;
+    width: 200px;
+font-weight: 900;
+text-align: center;
+padding-top: 10px;
+padding-bottom: 10px;
+color:azure;
+text-transform: uppercase;
+border-radius: 10px;
+}
+#add-btn{
+    background-color: darkred;
+}
+#btn-1{
+    background-color: #606c38;
+}
+#btn-2{
+    background-color: #219ebc;
+}
+p{
+    font-size: 30px;
+}
